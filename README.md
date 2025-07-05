@@ -63,7 +63,7 @@ pkg update && pkg upgrade
 pkg install git
 
 # Clone repository
-git clone https://github.com/yourusername/dnmap.git
+git clone https://github.com/DragoniaCompany1/Dexel-Network-Scanner
 cd dnmap
 
 # Berikan permission execute
